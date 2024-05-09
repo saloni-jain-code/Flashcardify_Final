@@ -30,9 +30,7 @@ Create a .env file in the `backend` folder and set `MONGO_DB_URI`.
 
 ## Run the App:
 ```
-cd backend
-npm start
-cd ../frontend
+cd frontend
 npm start
 ```
 Access the app by opening your browser and navigating to http://localhost:3000.
